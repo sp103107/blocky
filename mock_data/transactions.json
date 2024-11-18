@@ -1,0 +1,5 @@
+[
+  {"from": "Alice", "to": "Bob", "amount": 50},
+  {"from": "Bob", "to": "Charlie", "amount": 30},
+  {"from": "Alice", "to": "Charlie", "amount": 200}
+]
